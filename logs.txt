@@ -1,0 +1,31 @@
+Executable: /private/var/containers/Bundle/Application/74F1FDAF-518E-432A-8042-9F9DB300CAA2/ShadowTrackerExtra.app/ShadowTrackerExtra
+__PAGEZERO Size: 0x100000000
+BaseAddress: 0x2adc000
+==========================
+GNames: 0x111343660
+Test Dumping First 10 Name Enteries
+GetNameByID(0): None
+GetNameByID(1): ByteProperty
+GetNameByID(2): IntProperty
+GetNameByID(3): BoolProperty
+GetNameByID(4): FloatProperty
+GetNameByID(5): ObjectProperty
+GetNameByID(6): NameProperty
+GetNameByID(7): DelegateProperty
+GetNameByID(8): DoubleProperty
+GetNameByID(9): ArrayProperty
+==========================
+ObjObjects: 0x10ae8f8b0
+ObjObjects Num: 182751
+ObjObjects Max: 450000
+==========================
+Saved packages: 477
+Saved classes: 4740
+Saved structs: 3240
+Saved enums: 1368
+Unsaved packages: [
+	Transient
+]
+==========================
+Generating json...
+Functions: 15589
