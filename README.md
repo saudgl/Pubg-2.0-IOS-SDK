@@ -1,6 +1,6 @@
 # Pubg-2.0-IOS-SDK
- * THIS ONLY FOR IOS IPhone or IPAD
  * This For UE4 ((( Pubg 2.0 ))) 
+ * THIS ONLY FOR IOS IPhone or IPAD
  * UWorld :0x1028419B4 / 0x1084BC3E8
  * FName : 0x103D064E8 / 0x10812F650
  * one for A13 , two to less than A13 
