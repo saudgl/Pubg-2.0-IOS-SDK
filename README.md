@@ -1,10 +1,9 @@
 # Pubg-2.0-IOS-SDK
- * This For UE4 ((( Pubg 2.0 ))) 
+ * This SDK For Unreal Engine 4 UE4 ((( Pubg 2.0 ))) 
  * THIS ONLY FOR IOS IPhone or IPAD
  * UWorld :0x1028419B4 / 0x1084BC3E8
  * FName : 0x103D064E8 / 0x10812F650
  * one for A13 , two to less than A13 
-Pubg 2.0 SDK Unreal Engine 4 For IOS IPhone
 * ALl Pubg Headers in one zip folder 
 * All what you need to make FUN with the game ;)
 * If you like to develop Pubg ESP or whatever menu for IOS IPhone or IPad this is the right information you need 
